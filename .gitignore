@@ -1,0 +1,6 @@
+private/
+tmp/
+*_old
+**_bakup
+*.DS_Store
+Thumbs.db
